@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1637802665 source:c:\users\user\desktop\c++\11-27-2021\mod8\main.cpp
+	"SLL_Circular.h"
+
+1637802086 c:\users\user\desktop\c++\11-27-2021\mod8\sll_circular.h
+	<iostream>
+
+1637802653 source:c:\users\user\desktop\c++\11-27-2021\mod8\sll_circular.cpp
+	"SLL_Circular.h"
+
